@@ -100,16 +100,32 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<h5>Academy Officials</h5>
 						</div>
 						<div class="col-md-3 statistics-grid">
-							<div class="counter numscroller">25</div>
+							<div class="counter numscroller">24</div>
+							<h5>Under 8 Squad</h5>
+						</div>
+						<div class="col-md-3 statistics-grid">
+							<div class="counter numscroller">32</div>
+							<h5>Under 11 Squad</h5>
+						</div>
+						<div class="col-md-3 statistics-grid">
+							<div class="counter numscroller">62</div>
 							<h5>Under 13 Squad</h5>
 						</div>
 						<div class="col-md-3 statistics-grid">
-							<div class="counter numscroller">27</div>
+							<div class="counter numscroller">45</div>
 							<h5>Under 15 Squad</h5>
 						</div>
 						<div class="col-md-3 statistics-grid">
-							<div class="counter numscroller">20</div>
+							<div class="counter numscroller">40</div>
 							<h5>Under 17 Squad</h5>
+						</div>
+						<div class="col-md-3 statistics-grid">
+							<div class="counter numscroller">24</div>
+							<h5>Under 20 Squad</h5>
+						</div>
+						<div class="col-md-3 statistics-grid">
+							<div class="counter numscroller">26</div>
+							<h5>Girls Squad</h5>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -118,12 +134,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //statistics -->
 <!-- team -->
 <div class="team">
-		<div class="container">
+		<div class="container" style="width:100%">
 			<h3 class="w3l_head w3l_head1">Our Team </h3>
 			<div class="team-row">
-				<div class="col-md-3 team-grids">
-					<h5>Pstr. Moses Zewedi</h5>
-					<p>Team Manager</p>
+				<div class="col-md-4 team-grids">
+					<h5> Moses M. Zewedi</h5>
+					<p>Foudner/Team Manager/Coach</p>
 						<div class="social-icons1">
 							<ul class="social-icons">
 								<li><a href="#" class="icon icon-border facebook"></a></li>
@@ -133,12 +149,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</ul>
 						</div>
 					<div class="team-img">
-						<img src="images/t4.jpg" alt="">
+						<img src="images/zewedi.jpg" alt="">
 					</div>
 				</div>
-				<div class="col-md-3 team-grids team-mdl">
-					<h5>Moureen Maelo</h5>
-					<p>...</p>
+				<div class="col-md-4 team-grids team-mdl">
+					<h5>Maureen R. Maelo</h5>
+					<p>Secretary/ Club CEO</p>
 						<div class="social-icons1">
 							<ul class="social-icons">
 								<li><a href="#" class="icon icon-border facebook"></a></li>
@@ -148,12 +164,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</ul>
 						</div>
 					<div class="team-img">
-						<img src="images/t5.jpg" alt="">
+						<img src="images/moureen.jpg" alt="">
 					</div>
 				</div>
-				<div class="col-md-3 team-grids team-mdl1">
-					<h5>Ochami ....</h5>
-					<p>Head Coach</p>
+				<div class="col-md-4 team-grids team-mdl1">
+					<h5>Sammy Ochami</h5>
+					<p>Coach</p>
 						<div class="social-icons1">
 							<ul class="social-icons">
 								<li><a href="#" class="icon icon-border facebook"></a></li>
@@ -163,12 +179,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</ul>
 						</div>
 					<div class="team-img">
-						<img src="images/t6.jpg" alt="">
+						<img src="images/ochami.jpg" alt="">
 					</div>
 				</div>
-				<div class="col-md-3 team-grids">
-					<h5>...</h5>
-					<p>...</p>
+				<div class="col-md-4 team-grids">
+					<h5>Humphrey Lichuma</h5>
+					<p>Coach</p>
 						<div class="social-icons1">
 							<ul class="social-icons">
 								<li><a href="#" class="icon icon-border facebook"></a></li>
@@ -178,7 +194,37 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</ul>
 						</div>
 					<div class="team-img">
-						<img src="images/t1.jpg" alt="">
+						<img src="images/humphrey.jg" alt="">
+					</div>
+				</div>
+				<div class="col-md-4 team-grids">
+					<h5>Wycliff Khumaya</h5>
+					<p>Coach</p>
+						<div class="social-icons1">
+							<ul class="social-icons">
+								<li><a href="#" class="icon icon-border facebook"></a></li>
+								<li><a href="#" class="icon icon-border twitter"></a></li>
+								<li><a href="#" class="icon icon-border instagram"></a></li>
+								<li><a href="#" class="icon icon-border pinterest"></a></li>
+							</ul>
+						</div>
+					<div class="team-img">
+						<img src="images/wycliff.jpeg" alt="">
+					</div>
+				</div>
+				<div class="col-md-4 team-grids">
+					<h5>Douglas Wekesa</h5>
+					<p>Coach</p>
+						<div class="social-icons1">
+							<ul class="social-icons">
+								<li><a href="#" class="icon icon-border facebook"></a></li>
+								<li><a href="#" class="icon icon-border twitter"></a></li>
+								<li><a href="#" class="icon icon-border instagram"></a></li>
+								<li><a href="#" class="icon icon-border pinterest"></a></li>
+							</ul>
+						</div>
+					<div class="team-img">
+						<img src="images/douglas.jpg" alt="">
 					</div>
 				</div>
 				<div class="clearfix"> </div>
