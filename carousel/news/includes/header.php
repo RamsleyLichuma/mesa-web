@@ -57,7 +57,6 @@ header nav a:hover {
           <a href="../blog/about.php" class="mainNav__link">About Us</a>
         <a href="../blog/blog.php" class="mainNav__link">News </a>
         <a href="#" class="mainNav__link">Photo Gallery</a>
-        <a href="../videos/index.php" class="mainNav__link">Videos</a>
         <a href="../contact/blog.html" class="mainNav__link">Contact us</a>
       </div>
       </nav>
