@@ -33,7 +33,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <body>
 <!-- banner -->
 <div class="about">
-      <a class="bg_links social portfolio" href="https://www.instagram.com/lichuma_ramsley
+      <a class="bg_links social portfolio" href="https://www.instagram.com/mightyeagles_fc?igsh=M3hzcW5rNGZiaHVp
       " target="_blank">
          <span class="icon"></span>
       </a>
@@ -41,7 +41,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       " target="_blank">
          <span class="icon"></span>
       </a>
-      <a class="bg_links social linkedin" href="https://www.linkedin.com/in/ramsley-lichuma" target="_blank">
+      <a class="bg_links social linkedin" href="https://www.facebook.com/groups/109412805752253/" target="_blank">
          <span class="icon"></span>
       </a>
       <a class="bg_links logo"></a>
