@@ -48,7 +48,7 @@ while($row=mysqli_fetch_array($query))
     </div>
  <?php include('includes/footer.php');?>
  <footer>
-            <p style="text-align:center;">&copy; Copyright <a href="https://www.linkedin.com/in/ramsley-lichuma-2b9186260/" style="color:blue; ">Xxxage Technologies Incorporated </a> @ 2023   </p>
+            <p style="text-align:center;">&copy; Copyright <a href="https://www.facebook.com/groups/109412805752253/-2b9186260/" style="color:blue; ">Xxxage Technologies Incorporated </a> @ 2023   </p>
         </footer> 
  <script src="js/foot.js"></script>
     <script src="vendor/jquery/jquery.min.js"></script>
