@@ -38,8 +38,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="w3_agile_banner_top">
 				<div class="agile_phone_mail">
 					<ul>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+(254) 754 235 535</li>
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:mightyeagsocceracademy@gmail.com">mightyeagsocceracademy@gmail</a></li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+(254) 728825497</li>
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:mightyeagsocceracademy@gmail.com">mightyeagsocceracademy@gmail.com</a></li>
 					</ul>
 				</div>
 			</div>
@@ -62,7 +62,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<li class="active"><a href="about.php">About</a></li>
 							<!--<li><a href="portfolio.php">Products</a></li>-->
 							<li><a href="../news/index.php">Photo gallery</a></li>
-							<li><a href="../videos/index.php">Videos</a></li>
+							
 							<li><a href="blog.php">Updates</a></li>
 							<li><a href="../contact/blog.html">Contact us</a></li>
 						</ul>

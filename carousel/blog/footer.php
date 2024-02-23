@@ -5,8 +5,8 @@
 			<h3>Address</h3>
 				<ul>
 					<li><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Kitale, Kenya</li>
-					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:mightyeagsocceracademy@gmail.com">mightyeagsocceracademy@gmail.com</a></li>
-					 <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> +(254) ...</li>mightyeagsocceracademy@gmail.com
+					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:mightyeagsocceracademy@gmail.com">mightyeaglessocceracademy@gmail.com</a></li>
+					 <li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> +(254) 7 28825497</li>mightyeaglessocceracademy@gmail.com
 				</ul>
 		</div>
 		<div class="col-md-4 footer-left-agileinfo">
@@ -32,7 +32,7 @@
 <!-- //footer --> 
 	<div class="copyright-w3-agile">
 		<div class="container">
-			<p>© 2023 	Mighty Eagles Academy | All rights reserved.</p>
+			<p>© 2024 	Mighty Eagles Academy | All rights reserved.</p>
 			<div class="clearfix"> </div>
 		</div>
 	</div>
